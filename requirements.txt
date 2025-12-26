@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+tensorflow
+scikeras
+category_encoders
+lightgbm
+scipy
+ipykernel
